@@ -1,1 +1,2 @@
 shammas ps 
+this is my first git sample
