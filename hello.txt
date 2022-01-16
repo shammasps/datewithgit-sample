@@ -1,2 +1,4 @@
 shammas ps 
 this is my first git sample
+
+hello sugamanno
